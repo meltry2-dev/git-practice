@@ -9,8 +9,5 @@ README.md
 我在本地修改了！
 我在远程修改啦！
 这是 feature1 分支添加的内容。
-<<<<<<< HEAD
 这是master分支的冲突
-=======
 这是冲突演戏
->>>>>>> conflitc-demo
